@@ -4,5 +4,4 @@ pandas
 folium
 seaborn
 streamlit
-sklearn
-sklearn.metrics
+scikit-learn
